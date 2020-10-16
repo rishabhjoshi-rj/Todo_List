@@ -1,10 +1,10 @@
 # Todo_List
 Todo List in console environment of browser - Using Javascript Basics 
-Following Functions of Todo List
-Todo list
-"new"-Add a Todo List
-"list"- List all Todos
-"delete"- Remove specific Todo
+Following Functions of Todo List\
+Todo list\
+"new"-Add a Todo List\
+"list"- List all Todos\
+"delete"- Remove specific Todo\
 "Quit" - quit app
 
 1. CLick on link https://rishabhjoshi-rj.github.io/Todo_List/
